@@ -10,5 +10,7 @@
 - Copying data manually through buttons as a manual method without using a QR code
 
 
-https://www.youtube.com/watch?v=RtJkBej0mRI
-[![Watch the video](https://www.youtube.com/watch?v=RtJkBej0mRI)
+https://t.me/dev_drain
+https://t.me/lyutiypizdec
+
+[![Watch the video](https://i.imgur.com/m4K4dRy.png)](https://www.youtube.com/watch?v=RtJkBej0mRI)
